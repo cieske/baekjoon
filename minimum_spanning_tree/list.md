@@ -1,8 +1,8 @@
 1,1197,./../solution/minimum_spanning_tree/1197
 1,1922,./../solution/minimum_spanning_tree/1922
 1,1647,./../solution/minimum_spanning_tree/1647
-,4386,
-,6497,
+,4386,./../solution/minimum_spanning_tree/4386
+,6497,./../solution/minimum_spanning_tree/6497
 1,1774,./../solution/minimum_spanning_tree/1774
 1,16398,./../solution/minimum_spanning_tree/16398
 ,13905,
@@ -14,10 +14,11 @@
 ,14950,
 ,2406,
 ,17490,
-,2887,
+,2887,./../solution/minimum_spanning_tree/2887
 ,1944,
 ,10423,
 1,1368,./../solution/minimum_spanning_tree/1368
 ,20010,./../solution/minimum_spanning_tree/20010
 ,1414,
 ,1045,
+1,21924,./../solution/minimum_spanning_tree/21924

@@ -43,27 +43,27 @@
 
 | 순번 | Tag                          | 태그                | 문제집    | 추천 문제 수 | 총 문제 수 |  상태             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |:---------------:|
-| 00 | Data Structure | 자료구조 | [바로가기](./data_structure) | 15 | 23 | ![status][Doing] |
-| 01 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 08 | 18 | ![status][Doing] |
+| 00 | Data Structure | 자료구조 | [바로가기](./data_structure) | 16 | 25 | ![status][Doing] |
+| 01 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 11 | 21 | ![status][Doing] |
 | 02 | Tree | 트리 | [바로가기](./tree) | 15 | 44 | ![status][Doing] |
-| 03 | Math | 수학 | [바로가기](./math) | 14 | 25 | ![status][Doing] |
-| 04 | Greedy | 탐욕법 | [바로가기](./greedy) | 26 | 60 | ![status][Doing] |
-| 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./dynamic_programming_1) | 25 | 77 | ![status][Doing] |
-| 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./dynamic_programming_2) | 26 | 77 | ![status][Doing] |
-| 07 | Two Pointer | 투 포인터 | [바로가기](./two_pointer) | 11 | 34 | ![status][Doing] |
-| 08 | Implementation | 구현 | [바로가기](./implementation) | 25 | 45 | ![status][Doing] |
-| 09 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) | 28 | 90 | ![status][Doing] |
-| 10 | Brute Force | 완전탐색 | [바로가기](./brute_force) | 30 | 90 | ![status][Doing] |
-| 11 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 28 | 46 | ![status][Doing] |
-| 12 | Binary Search | 이분탐색 | [바로가기](./binary_search) | 19 | 64 | ![status][Doing] |
-| 13 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 27 | 74 | ![status][Doing] |
+| 03 | Math | 수학 | [바로가기](./math) | 18 | 29 | ![status][Doing] |
+| 04 | Greedy | 탐욕법 | [바로가기](./greedy) | 27 | 62 | ![status][Doing] |
+| 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./dynamic_programming_1) | 27 | 80 | ![status][Doing] |
+| 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./dynamic_programming_2) | 28 | 81 | ![status][Doing] |
+| 07 | Two Pointer | 투 포인터 | [바로가기](./two_pointer) | 13 | 36 | ![status][Doing] |
+| 08 | Implementation | 구현 | [바로가기](./implementation) | 30 | 51 | ![status][Doing] |
+| 09 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) | 31 | 96 | ![status][Doing] |
+| 10 | Brute Force | 완전탐색 | [바로가기](./brute_force) | 33 | 94 | ![status][Doing] |
+| 11 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 30 | 48 | ![status][Doing] |
+| 12 | Binary Search | 이분탐색 | [바로가기](./binary_search) | 20 | 66 | ![status][Doing] |
+| 13 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 28 | 75 | ![status][Doing] |
 | 14 | Divide and conquer | 분할정복 | [바로가기](./divide_and_conquer) | 08 | 18 | ![status][Doing] |
-| 15 | Prefix Sum | 누적 합 | [바로가기](./prefix_sum) | 10 | 31 | ![status][Doing] |
-| 16 | String | 문자열 | [바로가기](./string) | 19 | 64 | ![status][Doing] |
-| 17 | Shortest Path | 최단거리 | [바로가기](./shortest_path) | 18 | 51 | ![status][Doing] |
+| 15 | Prefix Sum | 누적 합 | [바로가기](./prefix_sum) | 11 | 32 | ![status][Doing] |
+| 16 | String | 문자열 | [바로가기](./string) | 19 | 63 | ![status][Doing] |
+| 17 | Shortest Path | 최단거리 | [바로가기](./shortest_path) | 18 | 53 | ![status][Doing] |
 | 18 | Topological Sorting | 위상정렬 | [바로가기](./topological_sorting) | 05 | 14 | ![status][Doing] |
 | 19 | Disjoint Set | 분리 집합 | [바로가기](./disjoint_set) | 06 | 20 | ![status][Doing] |
-| 20 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./minimum_spanning_tree) | 07 | 23 | ![status][Doing] |
+| 20 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./minimum_spanning_tree) | 08 | 24 | ![status][Doing] |
 | 21 | Trie | 트라이 | [바로가기](./trie) | 05 | 09 | ![status][Doing] |
 | 22 | Dynamic Programming On Trees | 트리디피 | [바로가기](./dynamic_programming_on_trees) | 04 | 08 | ![status][Doing] |
  
@@ -225,6 +225,16 @@
             <br />
             <a href="https://github.com/seung-00">seung-00</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/bn-tw2020"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/66770613?v=4"/></a>
+            <br />
+            <a href="https://github.com/bn-tw2020">bn-tw2020</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/kjh03160"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/49090888?v=4"/></a>
+            <br />
+            <a href="https://github.com/kjh03160">kjh03160</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -248,6 +258,252 @@
             <br />
             <a href="https://solved.ac/profile/osy0056">solved.ac</a>
         </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ap4o" />
+            <br />
+            <a href="https://www.acmicpc.net/user/ap4o">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/ap4o">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kis03160" />
+            <br />
+            <a href="https://www.acmicpc.net/user/kis03160">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/kis03160">solved.ac</a>
+        </td>
+    </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/CoodingPenguin"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/37505775?v=4"/></a>
+            <br />
+            <a href="https://github.com/CoodingPenguin">CoodingPenguin</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/bsm8734"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/35002768?v=4"/></a>
+            <br />
+            <a href="https://github.com/bsm8734">bsm8734</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/gkgg123"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/60089810?v=4"/></a>
+            <br />
+            <a href="https://github.com/gkgg123">gkgg123</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/simon-hoon"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/54058621?v=4"/></a>
+            <br />
+            <a href="https://github.com/simon-hoon">simon-hoon</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/gusdn3477"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/46596758?v=4"/></a>
+            <br />
+            <a href="https://github.com/gusdn3477">gusdn3477</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=unodostre" />
+            <br />
+            <a href="https://www.acmicpc.net/user/unodostre">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/unodostre">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bsoomin8734" />
+            <br />
+            <a href="https://www.acmicpc.net/user/bsoomin8734">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/bsoomin8734">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gkgg123" />
+            <br />
+            <a href="https://www.acmicpc.net/user/gkgg123">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/gkgg123">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ropeiny" />
+            <br />
+            <a href="https://www.acmicpc.net/user/ropeiny">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/ropeiny">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gusdn3477" />
+            <br />
+            <a href="https://www.acmicpc.net/user/gusdn3477">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/gusdn3477">solved.ac</a>
+        </td>
+    </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/rlawngus0910"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/57345435?v=4"/></a>
+            <br />
+            <a href="https://github.com/rlawngus0910">rlawngus0910</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/tallua"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/34978069?v=4"/></a>
+            <br />
+            <a href="https://github.com/tallua">tallua</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/kyjun719"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/24643002?v=4"/></a>
+            <br />
+            <a href="https://github.com/kyjun719">kyjun719</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/chance0523"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/51807128?v=4"/></a>
+            <br />
+            <a href="https://github.com/chance0523">chance0523</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/lms0806"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/42136056?v=4"/></a>
+            <br />
+            <a href="https://github.com/lms0806">lms0806</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rlawngus0910" />
+            <br />
+            <a href="https://www.acmicpc.net/user/rlawngus0910">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/rlawngus0910">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tallua_y" />
+            <br />
+            <a href="https://www.acmicpc.net/user/tallua_y">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/tallua_y">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kyj1991719" />
+            <br />
+            <a href="https://www.acmicpc.net/user/kyj1991719">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/kyj1991719">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=samuel95" />
+            <br />
+            <a href="https://www.acmicpc.net/user/samuel95">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/samuel95">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=lms0806" />
+            <br />
+            <a href="https://www.acmicpc.net/user/lms0806">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/lms0806">solved.ac</a>
+        </td>
+    </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/zmrdltl"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/22141521?v=4"/></a>
+            <br />
+            <a href="https://github.com/zmrdltl">zmrdltl</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/cieske"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/36599490?v=4"/></a>
+            <br />
+            <a href="https://github.com/cieske">cieske</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Rain3321"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/39397110?v=4"/></a>
+            <br />
+            <a href="https://github.com/Rain3321">Rain3321</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/sio2whocodes"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/41771874?v=4"/></a>
+            <br />
+            <a href="https://github.com/sio2whocodes">sio2whocodes</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/kang-hyuck"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/61424701?v=4"/></a>
+            <br />
+            <a href="https://github.com/kang-hyuck">kang-hyuck</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xhdxhl" />
+            <br />
+            <a href="https://www.acmicpc.net/user/xhdxhl">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/xhdxhl">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cieske" />
+            <br />
+            <a href="https://www.acmicpc.net/user/cieske">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/cieske">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=smw123123" />
+            <br />
+            <a href="https://www.acmicpc.net/user/smw123123">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/smw123123">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=fltcy2039" />
+            <br />
+            <a href="https://www.acmicpc.net/user/fltcy2039">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/fltcy2039">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bakh1" />
+            <br />
+            <a href="https://www.acmicpc.net/user/bakh1">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/bakh1">solved.ac</a>
+        </td>
+    </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/witch-factory"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/51201821?v=4"/></a>
+            <br />
+            <a href="https://github.com/witch-factory">witch-factory</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/youngjun0627"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/57058726?v=4"/></a>
+            <br />
+            <a href="https://github.com/youngjun0627">youngjun0627</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/suinj8"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/90179555?v=4"/></a>
+            <br />
+            <a href="https://github.com/suinj8">suinj8</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dart" />
+            <br />
+            <a href="https://www.acmicpc.net/user/dart">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/dart">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yj2221" />
+            <br />
+            <a href="https://www.acmicpc.net/user/yj2221">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/yj2221">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=suin8" />
+            <br />
+            <a href="https://www.acmicpc.net/user/suin8">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/suin8">solved.ac</a>
+        </td>
     </tr>
 </table>
 
@@ -255,6 +511,10 @@
 ## 업데이트 로그
 
 뽑아야 하는 문제가 많고 이를 보기 좋게 표로 정리하는 과정은 너무 노가다성이 많기 때문에 편하게 작업할 수 있도록 업데이트 하고 있습니다.
+
+<details>
+    <summary>자세히</summary><p>
+
  - 2021.04.28
    - [오늘의 문제](https://github.com/tony9402/baekjoon/blob/main/picked.md) 뽑히는 문제 난이도 변경 
      - 이전 난이도
@@ -313,12 +573,22 @@
  - 2021.01.15
    - 문제 [이렇게](https://raw.githubusercontent.com/tony9402/baekjoon/main/math/list.md) 뽑으면 자동으로 markdown 테이블을 만들어주는 스크립트 제작
 
+</p></details>
+
+
+
 ## TODO
+
+<details>
+  <summary>자세히</summary>
 
 - [x] 코드 리팩토링
 - [x] Contributors 추가 스크립트화
 - [ ] 문제 뽑으면 Discussions 또는 Issue에서 바로 간단한 명령어로 추가 기능(스크립트화)
 - [x] 문제 추가 방식 변경
+
+</details>
+
 
 [Backtracking]: ./backtracking
 [Binary Search]: ./binary_search

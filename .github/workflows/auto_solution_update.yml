@@ -3,12 +3,28 @@ name: Auto Solution Update
 on:
   push:
     branches: [ main ]
+    paths-ignore:
+      - assets
+      - .github
+      - markdown
+      - scripts
+      - '.gitignore'
+      - 'CodingTest.md'
+      - 'LICENSE'
+      - 'README.md'
+      - 'algorithm_list.md'
+      - 'change_level.log'
+      - 'guideline_for_contribute.md'
+      - 'picked.md'
+      - 'status.md'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+      with:
+        ref: main
     - name: Setup Python
       uses: actions/setup-python@v1
       with:
@@ -31,4 +47,4 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
          branch: 'main'
-         github_token: $
+         github_token: ${{ secrets.GITHUB_TOKEN }}

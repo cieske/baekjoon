@@ -11,15 +11,15 @@
 1,15665,./../solution/backtracking/15665
 1,15666,./../solution/backtracking/15666
 ,14889,./../solution/backtracking/14889
-,10974,
-,15658,
+,10974,./../solution/backtracking/10974
+,15658,./../solution/backtracking/15658
 ,16922,
 ,18429,
 ,19949,
 ,1553,
 ,20950,
 ,6603,
-1,1182,
+1,1182,./../solution/backtracking/1182
 ,10819,
 1,10971,
 ,2529,
@@ -28,7 +28,7 @@
 ,19699,
 1,14712,./../solution/backtracking/14712
 1,14888,
-,16198,
+,16198,./../solution/backtracking/16198
 ,12101,
 ,10597,
 1,1174,
@@ -41,9 +41,9 @@
 1,9663,./../solution/backtracking/9663
 ,1759,
 ,15684,
-,1038,
+,1038,./../solution/backtracking/1038
 ,2023,
-,1405,
+,1405,./../solution/backtracking/1405
 ,1342,
 ,7490,
 ,13908,
@@ -64,7 +64,7 @@
 ,1248,
 ,9944,
 1,6443,
-,2026,
+,2026,./../solution/backtracking/2026
 ,15659,
 ,12908,
 ,1729,
@@ -72,3 +72,4 @@
 1,1799,
 ,16571,
 ,3165,
+1,22944,./../solution/backtracking/22944
