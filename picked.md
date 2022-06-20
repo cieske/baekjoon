@@ -1,3 +1,12 @@
+## 2022/06/21 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [13699](https://www.acmicpc.net/problem/13699) | [점화식](https://www.acmicpc.net/problem/13699) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1497](https://www.acmicpc.net/problem/1497) | [기타콘서트](https://www.acmicpc.net/problem/1497) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1188](https://www.acmicpc.net/problem/1188) | [음식 평론가](https://www.acmicpc.net/problem/1188) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17406](https://www.acmicpc.net/problem/17406) | [배열 돌리기 4](https://www.acmicpc.net/problem/17406) |
+
 ## 2022/06/20 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1182,7 +1191,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [14697](https://www.acmicpc.net/problem/14697) | [방 배정하기](https://www.acmicpc.net/problem/14697) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9421](https://www.acmicpc.net/problem/9421) | [소수상근수](https://www.acmicpc.net/problem/9421) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9421](https://www.acmicpc.net/problem/9421) | [소수상근수](https://www.acmicpc.net/problem/9421) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18290](https://www.acmicpc.net/problem/18290) | [NM과 K (1)](https://www.acmicpc.net/problem/18290) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22859](https://www.acmicpc.net/problem/22859) | [HTML 파싱](https://www.acmicpc.net/problem/22859) |
 
@@ -1532,7 +1541,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [10448](https://www.acmicpc.net/problem/10448) | [유레카 이론](https://www.acmicpc.net/problem/10448) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [10448](https://www.acmicpc.net/problem/10448) | [유레카 이론](https://www.acmicpc.net/problem/10448) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16918](https://www.acmicpc.net/problem/16918) | [봄버맨](https://www.acmicpc.net/problem/16918) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16400](https://www.acmicpc.net/problem/16400) | [소수 화폐](https://www.acmicpc.net/problem/16400) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17398](https://www.acmicpc.net/problem/17398) | [통신망 분할](https://www.acmicpc.net/problem/17398) |
@@ -3674,7 +3683,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [10448](https://www.acmicpc.net/problem/10448) | [유레카 이론](https://www.acmicpc.net/problem/10448) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [10448](https://www.acmicpc.net/problem/10448) | [유레카 이론](https://www.acmicpc.net/problem/10448) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19942](https://www.acmicpc.net/problem/19942) | [다이어트](https://www.acmicpc.net/problem/19942) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2015](https://www.acmicpc.net/problem/2015) | [수들의 합 4](https://www.acmicpc.net/problem/2015) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2982](https://www.acmicpc.net/problem/2982) | [국왕의 방문](https://www.acmicpc.net/problem/2982) |
@@ -3729,7 +3738,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20053](https://www.acmicpc.net/problem/20053) | [최소, 최대 2](https://www.acmicpc.net/problem/20053) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9421](https://www.acmicpc.net/problem/9421) | [소수상근수](https://www.acmicpc.net/problem/9421) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9421](https://www.acmicpc.net/problem/9421) | [소수상근수](https://www.acmicpc.net/problem/9421) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [14425](https://www.acmicpc.net/problem/14425) | [문자열 집합](https://www.acmicpc.net/problem/14425) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [20119](https://www.acmicpc.net/problem/20119) | [클레어와 물약](https://www.acmicpc.net/problem/20119) |
 
