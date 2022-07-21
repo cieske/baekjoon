@@ -1,3 +1,12 @@
+## 2022/07/22 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17393](https://www.acmicpc.net/problem/17393) | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2866](https://www.acmicpc.net/problem/2866) | [문자열 잘라내기](https://www.acmicpc.net/problem/2866) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1043](https://www.acmicpc.net/problem/1043) | [거짓말](https://www.acmicpc.net/problem/1043) |
+
 ## 2022/07/21 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -147,7 +156,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1463](https://www.acmicpc.net/problem/1463) | [1로 만들기](https://www.acmicpc.net/problem/1463) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2138](https://www.acmicpc.net/problem/2138) | [전구와 스위치](https://www.acmicpc.net/problem/2138) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2138](https://www.acmicpc.net/problem/2138) | [전구와 스위치](https://www.acmicpc.net/problem/2138) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2239](https://www.acmicpc.net/problem/2239) | [스도쿠](https://www.acmicpc.net/problem/2239) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2253](https://www.acmicpc.net/problem/2253) | [점프](https://www.acmicpc.net/problem/2253) |
 
@@ -2785,7 +2794,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11728](https://www.acmicpc.net/problem/11728) | [배열 합치기](https://www.acmicpc.net/problem/11728) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1965](https://www.acmicpc.net/problem/1965) | [상자넣기](https://www.acmicpc.net/problem/1965) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2138](https://www.acmicpc.net/problem/2138) | [전구와 스위치](https://www.acmicpc.net/problem/2138) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2138](https://www.acmicpc.net/problem/2138) | [전구와 스위치](https://www.acmicpc.net/problem/2138) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2143](https://www.acmicpc.net/problem/2143) | [두 배열의 합](https://www.acmicpc.net/problem/2143) |
 
 ## 2021/09/11 
