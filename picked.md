@@ -1,3 +1,12 @@
+## 2022/08/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | [10808](https://www.acmicpc.net/problem/10808) | [알파벳 개수](https://www.acmicpc.net/problem/10808) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [4097](https://www.acmicpc.net/problem/4097) | [수익](https://www.acmicpc.net/problem/4097) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11000](https://www.acmicpc.net/problem/11000) | [강의실 배정](https://www.acmicpc.net/problem/11000) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [7453](https://www.acmicpc.net/problem/7453) | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) |
+
 ## 2022/08/13 
 
 | 난이도 | 번호 | 문제 이름 |
