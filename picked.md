@@ -1,3 +1,12 @@
+## 2022/09/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [3040](https://www.acmicpc.net/problem/3040) | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20922](https://www.acmicpc.net/problem/20922) | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13302](https://www.acmicpc.net/problem/13302) | [리조트](https://www.acmicpc.net/problem/13302) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [4195](https://www.acmicpc.net/problem/4195) | [친구 네트워크](https://www.acmicpc.net/problem/4195) |
+
 ## 2022/09/05 
 
 | 난이도 | 번호 | 문제 이름 |
