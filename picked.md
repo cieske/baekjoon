@@ -1,3 +1,12 @@
+## 2022/09/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9342](https://www.acmicpc.net/problem/9342) | [염색체](https://www.acmicpc.net/problem/9342) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14430](https://www.acmicpc.net/problem/14430) | [자원 캐기](https://www.acmicpc.net/problem/14430) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [21924](https://www.acmicpc.net/problem/21924) | [도시 건설](https://www.acmicpc.net/problem/21924) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [5875](https://www.acmicpc.net/problem/5875) | [오타](https://www.acmicpc.net/problem/5875) |
+
 ## 2022/09/08 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1157,7 +1166,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1302](https://www.acmicpc.net/problem/1302) | [베스트셀러](https://www.acmicpc.net/problem/1302) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15558](https://www.acmicpc.net/problem/15558) | [점프 게임](https://www.acmicpc.net/problem/15558) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13422](https://www.acmicpc.net/problem/13422) | [도둑](https://www.acmicpc.net/problem/13422) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22944](https://www.acmicpc.net/problem/22944) | [죽음의 비](https://www.acmicpc.net/problem/22944) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22944](https://www.acmicpc.net/problem/22944) | [죽음의 비](https://www.acmicpc.net/problem/22944) |
 
 ## 2022/04/30 
 
