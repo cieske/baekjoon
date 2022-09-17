@@ -1,3 +1,12 @@
+## 2022/09/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [21920](https://www.acmicpc.net/problem/21920) | [서로소 평균](https://www.acmicpc.net/problem/21920) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [4811](https://www.acmicpc.net/problem/4811) | [알약](https://www.acmicpc.net/problem/4811) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20007](https://www.acmicpc.net/problem/20007) | [떡 돌리기](https://www.acmicpc.net/problem/20007) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [12757](https://www.acmicpc.net/problem/12757) | [전설의 JBNU](https://www.acmicpc.net/problem/12757) |
+
 ## 2022/09/17 
 
 | 난이도 | 번호 | 문제 이름 |
