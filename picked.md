@@ -1,3 +1,12 @@
+## 2022/10/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [20114](https://www.acmicpc.net/problem/20114) | [미아 노트](https://www.acmicpc.net/problem/20114) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11722](https://www.acmicpc.net/problem/11722) | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [6416](https://www.acmicpc.net/problem/6416) | [트리인가?](https://www.acmicpc.net/problem/6416) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [13459](https://www.acmicpc.net/problem/13459) | [구슬 탈출](https://www.acmicpc.net/problem/13459) |
+
 ## 2022/10/05 
 
 | 난이도 | 번호 | 문제 이름 |
