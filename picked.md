@@ -1,3 +1,12 @@
+## 2022/10/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2729](https://www.acmicpc.net/problem/2729) | [이진수 덧셈](https://www.acmicpc.net/problem/2729) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18430](https://www.acmicpc.net/problem/18430) | [무기 공학](https://www.acmicpc.net/problem/18430) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17951](https://www.acmicpc.net/problem/17951) | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [21276](https://www.acmicpc.net/problem/21276) | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) |
+
 ## 2022/10/24 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -634,7 +643,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [16208](https://www.acmicpc.net/problem/16208) | [귀찮음](https://www.acmicpc.net/problem/16208) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [19622](https://www.acmicpc.net/problem/19622) | [회의실 배정 3](https://www.acmicpc.net/problem/19622) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [5624](https://www.acmicpc.net/problem/5624) | [좋은 수](https://www.acmicpc.net/problem/5624) |
 
 ## 2022/08/14 
@@ -2849,7 +2858,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | [2753](https://www.acmicpc.net/problem/2753) | [윤년](https://www.acmicpc.net/problem/2753) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14225](https://www.acmicpc.net/problem/14225) | [부분수열의 합](https://www.acmicpc.net/problem/14225) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1922](https://www.acmicpc.net/problem/1922) | [네트워크 연결](https://www.acmicpc.net/problem/1922) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
 
 ## 2021/12/08 
 
@@ -4891,7 +4900,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [9094](https://www.acmicpc.net/problem/9094) | [수학적 호기심](https://www.acmicpc.net/problem/9094) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5427](https://www.acmicpc.net/problem/5427) | [불](https://www.acmicpc.net/problem/5427) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [13460](https://www.acmicpc.net/problem/13460) | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) |
 
 ## 2021/04/25 
