@@ -1,3 +1,12 @@
+## 2022/10/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [19947](https://www.acmicpc.net/problem/19947) | [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14575](https://www.acmicpc.net/problem/14575) | [뒤풀이](https://www.acmicpc.net/problem/14575) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20444](https://www.acmicpc.net/problem/20444) | [색종이와 가위](https://www.acmicpc.net/problem/20444) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [22947](https://www.acmicpc.net/problem/22947) | [실행 시간](https://www.acmicpc.net/problem/22947) |
+
 ## 2022/10/27 
 
 | 난이도 | 번호 | 문제 이름 |
