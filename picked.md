@@ -1,3 +1,12 @@
+## 2022/11/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2941](https://www.acmicpc.net/problem/2941) | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19641](https://www.acmicpc.net/problem/19641) | [중첩 집합 모델](https://www.acmicpc.net/problem/19641) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11657](https://www.acmicpc.net/problem/11657) | [타임머신](https://www.acmicpc.net/problem/11657) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [10986](https://www.acmicpc.net/problem/10986) | [나머지 합](https://www.acmicpc.net/problem/10986) |
+
 ## 2022/11/23 
 
 | 난이도 | 번호 | 문제 이름 |
