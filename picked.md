@@ -1,3 +1,12 @@
+## 2022/12/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [13702](https://www.acmicpc.net/problem/13702) | [이상한 술집](https://www.acmicpc.net/problem/13702) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11279](https://www.acmicpc.net/problem/11279) | [최대 힙](https://www.acmicpc.net/problem/11279) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18513](https://www.acmicpc.net/problem/18513) | [샘터](https://www.acmicpc.net/problem/18513) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2211](https://www.acmicpc.net/problem/2211) | [네트워크 복구](https://www.acmicpc.net/problem/2211) |
+
 ## 2022/12/03 
 
 | 난이도 | 번호 | 문제 이름 |
