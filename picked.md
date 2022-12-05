@@ -1,3 +1,12 @@
+## 2022/12/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15649](https://www.acmicpc.net/problem/15649) | [N과 M (1)](https://www.acmicpc.net/problem/15649) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15787](https://www.acmicpc.net/problem/15787) | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3184](https://www.acmicpc.net/problem/3184) | [양](https://www.acmicpc.net/problem/3184) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1135](https://www.acmicpc.net/problem/1135) | [뉴스 전하기](https://www.acmicpc.net/problem/1135) |
+
 ## 2022/12/05 
 
 | 난이도 | 번호 | 문제 이름 |
