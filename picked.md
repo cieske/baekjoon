@@ -1,3 +1,12 @@
+## 2022/12/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [5347](https://www.acmicpc.net/problem/5347) | [LCM](https://www.acmicpc.net/problem/5347) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16174](https://www.acmicpc.net/problem/16174) | [점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2589](https://www.acmicpc.net/problem/2589) | [보물섬](https://www.acmicpc.net/problem/2589) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14950](https://www.acmicpc.net/problem/14950) | [정복자](https://www.acmicpc.net/problem/14950) |
+
 ## 2022/12/10 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -590,7 +599,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [20114](https://www.acmicpc.net/problem/20114) | [미아 노트](https://www.acmicpc.net/problem/20114) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11722](https://www.acmicpc.net/problem/11722) | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/> | [6416](https://www.acmicpc.net/problem/6416) | [트리인가?](https://www.acmicpc.net/problem/6416) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [13459](https://www.acmicpc.net/problem/13459) | [구슬 탈출](https://www.acmicpc.net/problem/13459) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [13459](https://www.acmicpc.net/problem/13459) | [구슬 탈출](https://www.acmicpc.net/problem/13459) |
 
 ## 2022/10/05 
 
@@ -2633,7 +2642,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4096](https://www.acmicpc.net/problem/4096) | [팰린드로미터](https://www.acmicpc.net/problem/4096) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11687](https://www.acmicpc.net/problem/11687) | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [13459](https://www.acmicpc.net/problem/13459) | [구슬 탈출](https://www.acmicpc.net/problem/13459) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [13459](https://www.acmicpc.net/problem/13459) | [구슬 탈출](https://www.acmicpc.net/problem/13459) |
 
 ## 2022/02/17 
 
@@ -4172,7 +4181,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2635](https://www.acmicpc.net/problem/2635) | [수 이어가기](https://www.acmicpc.net/problem/2635) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18352](https://www.acmicpc.net/problem/18352) | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [18234](https://www.acmicpc.net/problem/18234) | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [13459](https://www.acmicpc.net/problem/13459) | [구슬 탈출](https://www.acmicpc.net/problem/13459) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [13459](https://www.acmicpc.net/problem/13459) | [구슬 탈출](https://www.acmicpc.net/problem/13459) |
 
 ## 2021/08/30 
 
