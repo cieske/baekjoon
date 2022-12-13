@@ -1,3 +1,12 @@
+## 2022/12/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [9655](https://www.acmicpc.net/problem/9655) | [돌 게임](https://www.acmicpc.net/problem/9655) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20055](https://www.acmicpc.net/problem/20055) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1507](https://www.acmicpc.net/problem/1507) | [궁금한 민호](https://www.acmicpc.net/problem/1507) |
+
 ## 2022/12/13 
 
 | 난이도 | 번호 | 문제 이름 |
