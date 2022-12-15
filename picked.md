@@ -1,3 +1,12 @@
+## 2022/12/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9372](https://www.acmicpc.net/problem/9372) | [상근이의 여행](https://www.acmicpc.net/problem/9372) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18352](https://www.acmicpc.net/problem/18352) | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16987](https://www.acmicpc.net/problem/16987) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1167](https://www.acmicpc.net/problem/1167) | [트리의 지름](https://www.acmicpc.net/problem/1167) |
+
 ## 2022/12/15 
 
 | 난이도 | 번호 | 문제 이름 |
