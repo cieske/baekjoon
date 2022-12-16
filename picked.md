@@ -1,3 +1,12 @@
+## 2022/12/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11659](https://www.acmicpc.net/problem/11659) | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2824](https://www.acmicpc.net/problem/2824) | [최대공약수](https://www.acmicpc.net/problem/2824) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1504](https://www.acmicpc.net/problem/1504) | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22948](https://www.acmicpc.net/problem/22948) | [원 이동하기 2](https://www.acmicpc.net/problem/22948) |
+
 ## 2022/12/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -21,7 +30,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [9655](https://www.acmicpc.net/problem/9655) | [돌 게임](https://www.acmicpc.net/problem/9655) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20055](https://www.acmicpc.net/problem/20055) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1507](https://www.acmicpc.net/problem/1507) | [궁금한 민호](https://www.acmicpc.net/problem/1507) |
 
@@ -1354,7 +1363,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [3613](https://www.acmicpc.net/problem/3613) | [Java vs C++](https://www.acmicpc.net/problem/3613) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1277](https://www.acmicpc.net/problem/1277) | [발전소 설치](https://www.acmicpc.net/problem/1277) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1581](https://www.acmicpc.net/problem/1581) | [락스타 락동호](https://www.acmicpc.net/problem/1581) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1581](https://www.acmicpc.net/problem/1581) | [락스타 락동호](https://www.acmicpc.net/problem/1581) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1647](https://www.acmicpc.net/problem/1647) | [도시 분할 계획](https://www.acmicpc.net/problem/1647) |
 
 ## 2022/07/18 
@@ -1776,7 +1785,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5883](https://www.acmicpc.net/problem/5883) | [아이폰 9S](https://www.acmicpc.net/problem/5883) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브](https://www.acmicpc.net/problem/15685) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1774](https://www.acmicpc.net/problem/1774) | [우주신과의 교감](https://www.acmicpc.net/problem/1774) |
 
@@ -4001,7 +4010,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [17521](https://www.acmicpc.net/problem/17521) | [Byte Coin](https://www.acmicpc.net/problem/17521) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17265](https://www.acmicpc.net/problem/17265) | [나의 인생에는 수학과 함께](https://www.acmicpc.net/problem/17265) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17135](https://www.acmicpc.net/problem/17135) | [캐슬 디펜스](https://www.acmicpc.net/problem/17135) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1581](https://www.acmicpc.net/problem/1581) | [락스타 락동호](https://www.acmicpc.net/problem/1581) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1581](https://www.acmicpc.net/problem/1581) | [락스타 락동호](https://www.acmicpc.net/problem/1581) |
 
 ## 2021/09/24 
 
@@ -4980,7 +4989,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2231](https://www.acmicpc.net/problem/2231) | [분해합](https://www.acmicpc.net/problem/2231) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5052](https://www.acmicpc.net/problem/5052) | [전화번호 목록](https://www.acmicpc.net/problem/5052) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
 
