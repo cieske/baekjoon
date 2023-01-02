@@ -1,3 +1,12 @@
+## 2023/01/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1120](https://www.acmicpc.net/problem/1120) | [문자열](https://www.acmicpc.net/problem/1120) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3187](https://www.acmicpc.net/problem/3187) | [양치기 꿍](https://www.acmicpc.net/problem/3187) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14923](https://www.acmicpc.net/problem/14923) | [미로 탈출](https://www.acmicpc.net/problem/14923) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17135](https://www.acmicpc.net/problem/17135) | [캐슬 디펜스](https://www.acmicpc.net/problem/17135) |
+
 ## 2023/01/02 
 
 | 난이도 | 번호 | 문제 이름 |
