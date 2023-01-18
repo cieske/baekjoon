@@ -1,3 +1,12 @@
+## 2023/01/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [7795](https://www.acmicpc.net/problem/7795) | [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15810](https://www.acmicpc.net/problem/15810) | [풍선 공장](https://www.acmicpc.net/problem/15810) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1474](https://www.acmicpc.net/problem/1474) | [밑 줄](https://www.acmicpc.net/problem/1474) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2812](https://www.acmicpc.net/problem/2812) | [크게 만들기](https://www.acmicpc.net/problem/2812) |
+
 ## 2023/01/18 
 
 | 난이도 | 번호 | 문제 이름 |
