@@ -1,3 +1,12 @@
+## 2023/01/23 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2164](https://www.acmicpc.net/problem/2164) | [카드2](https://www.acmicpc.net/problem/2164) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1174](https://www.acmicpc.net/problem/1174) | [줄어드는 수](https://www.acmicpc.net/problem/1174) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16927](https://www.acmicpc.net/problem/16927) | [배열 돌리기 2](https://www.acmicpc.net/problem/16927) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2571](https://www.acmicpc.net/problem/2571) | [색종이 - 3](https://www.acmicpc.net/problem/2571) |
+
 ## 2023/01/22 
 
 | 난이도 | 번호 | 문제 이름 |
