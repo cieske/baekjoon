@@ -1,3 +1,12 @@
+## 2023/01/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2217](https://www.acmicpc.net/problem/2217) | [로프](https://www.acmicpc.net/problem/2217) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2343](https://www.acmicpc.net/problem/2343) | [기타 레슨](https://www.acmicpc.net/problem/2343) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17255](https://www.acmicpc.net/problem/17255) | [N으로 만들기](https://www.acmicpc.net/problem/17255) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2533](https://www.acmicpc.net/problem/2533) | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) |
+
 ## 2023/01/23 
 
 | 난이도 | 번호 | 문제 이름 |
