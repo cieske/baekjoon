@@ -1,3 +1,12 @@
+## 2023/02/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2847](https://www.acmicpc.net/problem/2847) | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2374](https://www.acmicpc.net/problem/2374) | [같은 수로 만들기](https://www.acmicpc.net/problem/2374) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16432](https://www.acmicpc.net/problem/16432) | [떡장수와 호랑이](https://www.acmicpc.net/problem/16432) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2151](https://www.acmicpc.net/problem/2151) | [거울 설치](https://www.acmicpc.net/problem/2151) |
+
 ## 2023/02/01 
 
 | 난이도 | 번호 | 문제 이름 |
