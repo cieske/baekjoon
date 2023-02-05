@@ -1,3 +1,12 @@
+## 2023/02/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4396](https://www.acmicpc.net/problem/4396) | [지뢰 찾기](https://www.acmicpc.net/problem/4396) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1946](https://www.acmicpc.net/problem/1946) | [신입 사원](https://www.acmicpc.net/problem/1946) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17265](https://www.acmicpc.net/problem/17265) | [나의 인생에는 수학과 함께](https://www.acmicpc.net/problem/17265) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2058](https://www.acmicpc.net/problem/2058) | [원자의 에너지](https://www.acmicpc.net/problem/2058) |
+
 ## 2023/02/05 
 
 | 난이도 | 번호 | 문제 이름 |
