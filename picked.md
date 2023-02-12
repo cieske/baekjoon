@@ -1,3 +1,12 @@
+## 2023/02/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10828](https://www.acmicpc.net/problem/10828) | [스택](https://www.acmicpc.net/problem/10828) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1912](https://www.acmicpc.net/problem/1912) | [연속합](https://www.acmicpc.net/problem/1912) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20168](https://www.acmicpc.net/problem/20168) | [골목 대장 호석 - 기능성](https://www.acmicpc.net/problem/20168) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1865](https://www.acmicpc.net/problem/1865) | [웜홀](https://www.acmicpc.net/problem/1865) |
+
 ## 2023/02/12 
 
 | 난이도 | 번호 | 문제 이름 |
