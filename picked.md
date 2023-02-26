@@ -1,3 +1,12 @@
+## 2023/02/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17390](https://www.acmicpc.net/problem/17390) | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1260](https://www.acmicpc.net/problem/1260) | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3151](https://www.acmicpc.net/problem/3151) | [합이 0](https://www.acmicpc.net/problem/3151) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1030](https://www.acmicpc.net/problem/1030) | [프렉탈 평면](https://www.acmicpc.net/problem/1030) |
+
 ## 2023/02/26 
 
 | 난이도 | 번호 | 문제 이름 |
