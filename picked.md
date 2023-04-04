@@ -1,3 +1,12 @@
+## 2023/04/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [21919](https://www.acmicpc.net/problem/21919) | [소수 최소 공배수](https://www.acmicpc.net/problem/21919) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [5212](https://www.acmicpc.net/problem/5212) | [지구 온난화](https://www.acmicpc.net/problem/5212) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17086](https://www.acmicpc.net/problem/17086) | [아기 상어 2](https://www.acmicpc.net/problem/17086) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1918](https://www.acmicpc.net/problem/1918) | [후위 표기식](https://www.acmicpc.net/problem/1918) |
+
 ## 2023/04/04 
 
 | 난이도 | 번호 | 문제 이름 |
