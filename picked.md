@@ -1,3 +1,12 @@
+## 2023/04/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [18868](https://www.acmicpc.net/problem/18868) | [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [6118](https://www.acmicpc.net/problem/6118) | [숨바꼭질](https://www.acmicpc.net/problem/6118) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11057](https://www.acmicpc.net/problem/11057) | [오르막 수](https://www.acmicpc.net/problem/11057) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [21611](https://www.acmicpc.net/problem/21611) | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) |
+
 ## 2023/04/15 
 
 | 난이도 | 번호 | 문제 이름 |
