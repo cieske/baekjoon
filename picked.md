@@ -1,3 +1,12 @@
+## 2023/04/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [16916](https://www.acmicpc.net/problem/16916) | [부분 문자열](https://www.acmicpc.net/problem/16916) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [21278](https://www.acmicpc.net/problem/21278) | [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [22861](https://www.acmicpc.net/problem/22861) | [폴더 정리 (large)](https://www.acmicpc.net/problem/22861) |
+
 ## 2023/04/18 
 
 | 난이도 | 번호 | 문제 이름 |
