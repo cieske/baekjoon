@@ -1,3 +1,12 @@
+## 2023/04/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1159](https://www.acmicpc.net/problem/1159) | [농구 경기](https://www.acmicpc.net/problem/1159) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [7569](https://www.acmicpc.net/problem/7569) | [토마토](https://www.acmicpc.net/problem/7569) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18114](https://www.acmicpc.net/problem/18114) | [블랙 프라이데이](https://www.acmicpc.net/problem/18114) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [3665](https://www.acmicpc.net/problem/3665) | [최종 순위](https://www.acmicpc.net/problem/3665) |
+
 ## 2023/04/29 
 
 | 난이도 | 번호 | 문제 이름 |
