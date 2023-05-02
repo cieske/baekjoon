@@ -1,3 +1,12 @@
+## 2023/05/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [16171](https://www.acmicpc.net/problem/16171) | [나는 친구가 적다 (Small)](https://www.acmicpc.net/problem/16171) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [5567](https://www.acmicpc.net/problem/5567) | [결혼식](https://www.acmicpc.net/problem/5567) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [13022](https://www.acmicpc.net/problem/13022) | [늑대와 올바른 단어](https://www.acmicpc.net/problem/13022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17143](https://www.acmicpc.net/problem/17143) | [낚시왕](https://www.acmicpc.net/problem/17143) |
+
 ## 2023/05/02 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1408,7 +1417,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1969](https://www.acmicpc.net/problem/1969) | [DNA](https://www.acmicpc.net/problem/1969) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17129](https://www.acmicpc.net/problem/17129) | [윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17129) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2696](https://www.acmicpc.net/problem/2696) | [중앙값 구하기](https://www.acmicpc.net/problem/2696) |
 
 ## 2022/11/24 
@@ -3901,7 +3910,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4096](https://www.acmicpc.net/problem/4096) | [팰린드로미터](https://www.acmicpc.net/problem/4096) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11687](https://www.acmicpc.net/problem/11687) | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [13459](https://www.acmicpc.net/problem/13459) | [구슬 탈출](https://www.acmicpc.net/problem/13459) |
 
 ## 2022/02/17 
@@ -6241,7 +6250,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1159](https://www.acmicpc.net/problem/1159) | [농구 경기](https://www.acmicpc.net/problem/1159) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9663](https://www.acmicpc.net/problem/9663) | [N-Queen](https://www.acmicpc.net/problem/9663) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [12764](https://www.acmicpc.net/problem/12764) | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) |
 
 ## 2021/06/02 
