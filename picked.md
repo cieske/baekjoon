@@ -1,3 +1,12 @@
+## 2023/05/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [14405](https://www.acmicpc.net/problem/14405) | [피카츄](https://www.acmicpc.net/problem/14405) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11055](https://www.acmicpc.net/problem/11055) | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11722](https://www.acmicpc.net/problem/11722) | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14621](https://www.acmicpc.net/problem/14621) | [나만 안되는 연애](https://www.acmicpc.net/problem/14621) |
+
 ## 2023/05/09 
 
 | 난이도 | 번호 | 문제 이름 |
