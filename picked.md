@@ -1,3 +1,12 @@
+## 2023/06/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [21756](https://www.acmicpc.net/problem/21756) | [지우개](https://www.acmicpc.net/problem/21756) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11054](https://www.acmicpc.net/problem/11054) | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11559](https://www.acmicpc.net/problem/11559) | [Puyo Puyo](https://www.acmicpc.net/problem/11559) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [12896](https://www.acmicpc.net/problem/12896) | [스크루지 민호](https://www.acmicpc.net/problem/12896) |
+
 ## 2023/06/04 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -4333,7 +4342,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [13410](https://www.acmicpc.net/problem/13410) | [거꾸로 구구단](https://www.acmicpc.net/problem/13410) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11047](https://www.acmicpc.net/problem/11047) | [동전 0](https://www.acmicpc.net/problem/11047) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1863](https://www.acmicpc.net/problem/1863) | [스카이라인 쉬운거](https://www.acmicpc.net/problem/1863) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1863](https://www.acmicpc.net/problem/1863) | [스카이라인 쉬운거](https://www.acmicpc.net/problem/1863) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20061](https://www.acmicpc.net/problem/20061) | [모노미노도미노 2](https://www.acmicpc.net/problem/20061) |
 
 ## 2022/02/02 
