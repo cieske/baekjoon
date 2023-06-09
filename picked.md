@@ -1,3 +1,12 @@
+## 2023/06/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1145](https://www.acmicpc.net/problem/1145) | [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [4097](https://www.acmicpc.net/problem/4097) | [수익](https://www.acmicpc.net/problem/4097) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [21318](https://www.acmicpc.net/problem/21318) | [피아노 체조](https://www.acmicpc.net/problem/21318) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2213](https://www.acmicpc.net/problem/2213) | [트리의 독립집합](https://www.acmicpc.net/problem/2213) |
+
 ## 2023/06/09 
 
 | 난이도 | 번호 | 문제 이름 |
